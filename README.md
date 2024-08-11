@@ -24,7 +24,7 @@ Ensure you have Python 3.8 or higher installed on your system. You'll also need 
 1. Clone this repository to your local machine:
    ```sh
    git clone https://github.com/anttiluode/chargingbulltrader.git
-   cd charging-bull-trader
+   cd chargingbulltrader
    ```
 
 2. Create a virtual environment (optional but recommended):
