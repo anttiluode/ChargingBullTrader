@@ -1,0 +1,11 @@
+streamlit==1.21.0
+sqlite3
+hashlib
+pygame==2.1.3
+yfinance==0.2.19
+pandas==2.0.3
+plotly==5.15.0
+requests==2.31.0
+newsapi-python==0.2.0
+opencv-python-headless==4.8.0.76
+numpy==1.25.1
