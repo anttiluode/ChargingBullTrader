@@ -28,17 +28,15 @@ Ensure you have Python 3.8 or higher installed on your system. You'll also need 
    ```
 
 2. Create a virtual environment (optional but recommended):
-   ```sh
-   python -m venv venv
-   source venv/bin/activate   # On Windows use: venv\Scripts\activate
-   ```
+
+   Use what ever virtual environment software you like. I like to use Conda. 
 
 3. Install the required packages:
    ```sh
    pip install -r requirements.txt
    ```
 
-4. Place your image (`trade.png`) in the project directory.
+4. If you did not clone the app and just copied the app.py place trade.png and trade.mp3 in the project directory.
 
 5. Obtain a NewsAPI key: (Works without it but if you want to use the news feature)
    - Visit [NewsAPI](https://newsapi.org/) to sign up and get your API key.
