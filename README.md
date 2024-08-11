@@ -71,10 +71,6 @@ Ensure you have Python 3.8 or higher installed on your system. You'll also need 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-For any questions or issues, please contact [your email address].
-
 ---
 
 Enjoy trading and tracking your stock performance with **Charging Bull Trader**!
