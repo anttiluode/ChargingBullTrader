@@ -61,6 +61,10 @@ Ensure you have Python 3.8 or higher installed on your system. You'll also need 
 
 [![Watch our tutorial video on YouTube](https://img.youtube.com/vi/lgL0RETLRhw/0.jpg)](https://www.youtube.com/watch?v=lgL0RETLRhw)
 
+### Update
+
+[![Watch the update video on YouTube](https://img.youtube.com/vi/rMabpY_geUU/0.jpg)](https://www.youtube.com/watch?v=rMabpY_geUU)
+
 ## Credits
 
 - **Author:** Created by Antti Luode with assistance from ChatGPT.
