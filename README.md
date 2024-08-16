@@ -45,7 +45,7 @@ Ensure you have Python 3.8 or higher installed on your system. You'll also need 
 
 5. Run the Streamlit app:
    ```sh
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 ## Usage
