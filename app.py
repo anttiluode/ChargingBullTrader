@@ -423,7 +423,6 @@ def main():
             if c.fetchone():
                 st.session_state.logged_in = True
                 st.session_state.username = username_input
-                st.experimental_rerun()
             else:
                 st.error("Invalid username or password")
 
@@ -446,7 +445,6 @@ def main():
         if st.sidebar.button("Logout"):
             st.session_state.logged_in = False
             st.session_state.username = None
-            st.experimental_rerun()
 
         # Add the small Charging Bull image under the Logout button
         st.sidebar.image("trade.png", width=150)
@@ -512,5 +510,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
