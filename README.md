@@ -40,8 +40,12 @@ Ensure you have Python 3.8 or higher installed on your system. You'll also need 
    ```sh
    python -m streamlit run app.py
    ```
+   or
+      ```sh
+   streamlit run app.py
+   ```
 
-5. Create account and log in. You may have to press the log in button twice for some reason. 
+6. Create account and log in. You may have to press the log in button twice for some reason. 
 
 ## Usage
 
