@@ -36,14 +36,7 @@ Ensure you have Python 3.8 or higher installed on your system. You'll also need 
    pip install -r requirements.txt
    ```
 
-4. Obtain a NewsAPI key: (Works without it, but if you want to use the news feature)
-   - Visit [NewsAPI](https://newsapi.org/) to sign up and get your API key.
-   - Insert your API key into the `NEWS_API_KEY` variable in the `app.py` file:
-     ```python
-     NEWS_API_KEY = 'your_newsapi_key_here'
-     ```
-
-5. Run the Streamlit app:
+4. Run the Streamlit app:
    ```sh
    python -m streamlit run app.py
    ```
