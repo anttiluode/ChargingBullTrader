@@ -7,7 +7,10 @@ Welcome to **Charging Bull Trader**, a trading simulation game where you start w
 
 [Check out the live demo on Hugging Face Spaces!](https://huggingface.co/spaces/Aluode/ChargingBullTrader)
 
-[Me testing the space at youtube.](https://www.youtube.com/watch?v=rOdScYsHEDY)
+## Me Testing the Space
+
+[![Watch the video](https://img.youtube.com/vi/rOdScYsHEDY/0.jpg)](https://www.youtube.com/watch?v=rOdScYsHEDY)
+
 
 ## Features
 
