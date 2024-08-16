@@ -41,6 +41,8 @@ Ensure you have Python 3.8 or higher installed on your system. You'll also need 
    python -m streamlit run app.py
    ```
 
+5. Create account and log in. You may have to press the log in button twice for some reason. 
+
 ## Usage
 
 1. **Create an Account:** Use the sidebar to create an account with a username and password.
