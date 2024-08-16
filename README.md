@@ -5,6 +5,8 @@
 
 Welcome to **Charging Bull Trader**, a trading simulation game where you start with a balance of $10,000 and engage in buying and selling stocks. The game also allows you to seek news about stocks and tracks your performance over time.
 
+[Check out the live demo on Hugging Face Spaces!](https://huggingface.co/spaces/Aluode/ChargingBullTrader)
+
 ## Features
 
 - **Trade Stocks:** Buy and sell stocks from a predefined list.
